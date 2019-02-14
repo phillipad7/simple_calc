@@ -1,0 +1,4 @@
+#Wed Feb 13 16:08:08 PST 2019
+base.0=/Users/Phillip/AllProjects/Cordova_PJ/calc/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
